@@ -1,2 +1,2 @@
 # astar
-astar pathfinding visualiser in python
+astar pathfinding visualiser using pygame
